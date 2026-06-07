@@ -1,3 +1,4 @@
+Although this README file will be put on my profile, I use it as a quick note of my numerous ideas. Some may be interesting, but I do not have time to implement everything, so they are just ideas.
 ## Some ideas that may implement
 ### Smart Heating System
 a system that can control heating time depending on energy consumption, using AI model to analise, satisfying the users' demands.
